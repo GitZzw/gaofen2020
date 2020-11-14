@@ -1,0 +1,5 @@
+<launch>
+    <node name="test_node_time" pkg="test_node" type="test_node_time" output="screen">
+    </node>
+
+</launch>
